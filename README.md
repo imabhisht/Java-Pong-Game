@@ -5,6 +5,8 @@ Java Pong Game using JFrame. Its has some basic functionality of moving up and d
 
 I will make a better verion by temporarily controling Speed upon striking ball with Paddle. More level will be added soon.
 
+***Executable JAR File:*** [`out/artifacts/JavaPongGame.jar`](https://github.com/imabhisht/Java-Pong-Game/tree/main/out/artifacts/JavaPongGame_jar)
+
 
 ## GamePlay Video
 
